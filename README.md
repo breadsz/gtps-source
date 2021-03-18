@@ -1,2 +1,2 @@
-# gtps-source
-A great source to get started with GTPS!
+Please do not sell this source since its free!
+Source is created by Breads.
